@@ -5,7 +5,7 @@ export default defineConfig({
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   title: "Khaos Guide docs",
   description: "Khaos Modpack Guide.",
-  base: '/khaos-mc/',
+  base: '',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
