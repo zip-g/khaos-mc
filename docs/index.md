@@ -6,6 +6,9 @@ hero:
   name: "Khaos Guide Docs"
   text: "Khaos Modpack 公式ガイド"
   tagline: サーバー概要から簡易的なModの仕組みまで網羅
+  image:
+    src: /logo.png
+    alt: VitePress
   actions:
     - theme: brand
       text: はじめに（スタートガイド）

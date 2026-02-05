@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  // head: [['link', { rel: 'icon', href: 'favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   title: "Khaos Guide docs",
   description: "Khaos Modpack Guide.",
   base: '/khaos-mc/',
@@ -41,10 +41,10 @@ export default defineConfig({
         collapsible: true,
         items: [
           { text: '概要', link: '/create/index.md' },
-          { text: '注意事項', link: '/create/caution.md' },
           { text: 'エンジンについて', link: '/create/engine.md' },
           { text: '動力の仕組み', link: '/create/power.md' },
-          { text: '回転システム', link: '/create/rotation.md' }
+          { text: '回転システム', link: '/create/rotation.md' },
+          { text: '注意事項', link: '/create/caution.md' }
         ]
       },
       {
