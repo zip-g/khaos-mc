@@ -7,8 +7,8 @@ hero:
   text: "Khaos Modpack 公式ガイド"
   tagline: サーバー概要から簡易的なModの仕組みまで網羅
   image:
-    src: /logo.png
-    alt: VitePress
+    src: https://github.com/zip-g/khaos-mc/blob/main/logo.png?raw=true
+    alt: Khaos Server
   actions:
     - theme: brand
       text: はじめに（スタートガイド）

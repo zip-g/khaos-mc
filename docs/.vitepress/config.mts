@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: 'https://raw.githubusercontent.com/zip-g/khaos-mc/refs/heads/main/favicon.ico' }]],
   title: "Khaos Guide docs",
   description: "Khaos Modpack Guide.",
   base: '/khaos-mc/',
