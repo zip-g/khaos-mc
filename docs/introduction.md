@@ -17,7 +17,7 @@ description: mutzzz Fabric 1.20.1 Modサーバーの基本情報と仕様
 | Minecraft バージョン | **1.20.1** |
 | MOD ローダー | **Fabric** |
 | アプリケーション | [Modrinth](https://modrinth.com/app) |
-| 必須MOD | [ModPack](https://drive.google.com/file/d/1zJZiw9vfP0uTHipjT3OkNxypgxEoX0aM/view?usp=drive_link) |
+| 必須MOD | [ModPack](https://drive.google.com/file/d/1MeP1D5bGmQsghwfw7hRjdGC894K5_8go/view?usp=drive_link) |
 | 難易度 | ハード |
 | 稼働時間 | 24時間 |
 | PvP | なし |
